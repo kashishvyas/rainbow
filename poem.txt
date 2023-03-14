@@ -1,0 +1,7 @@
+this is a poem
+red
+yellow 
+blue
+green
+black
+white
