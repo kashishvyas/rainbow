@@ -4,4 +4,5 @@ yellow
 blue
 green
 black
+pink
 white
